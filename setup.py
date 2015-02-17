@@ -6,14 +6,14 @@ version = '0.1'
 setup(
     name='ckanext-cphopendata',
     version=version,
-    description="Theme for cph.open-data.dk",
+    description="Theme for cph.opendata.dk",
     long_description='''
     ''',
     classifiers=[], # Get strings from http://pypi.python.org/pypi?%3Aaction=list_classifiers
     keywords='',
     author='Henrik Aagaard Jorgensen',
     author_email='haj@cphsolutionslab.dk',
-    url='http://cph.open-data.dk',
+    url='http://cph.opendata.dk',
     license='',
     packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
     namespace_packages=['ckanext', 'ckanext.cphopendata'],

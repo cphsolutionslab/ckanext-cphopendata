@@ -21,7 +21,7 @@ def most_popular_datasets():
 
 
 class CPHOpenDataPlugin(plugins.SingletonPlugin):
-    '''cph.open-data.dk theme plugin.
+    '''cph.opendata.dk theme plugin.
 
     '''
     plugins.implements(plugins.IConfigurer)
