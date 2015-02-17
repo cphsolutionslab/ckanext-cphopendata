@@ -1,0 +1,12 @@
+{% ckan_extends %}
+
+{% block styles %}
+  {{ super() }}
+
+  {# Import style.css using Fanstatic.
+     'cphopendata/' is the name that the cphopendata/fanstatic directory
+     was registered with when the toolkit.add_resource() function was called.
+     'style.css' is the path to the CSS file, relative to the root of
+     the fanstatic directory. #}
+  {% resource 'cphopendata/style.css' %}
+{% endblock %}

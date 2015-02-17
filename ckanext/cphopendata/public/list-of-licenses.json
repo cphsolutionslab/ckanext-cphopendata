@@ -1,0 +1,30 @@
+[
+  {
+    "domain_content": true,
+    "domain_data": false,
+    "domain_software": false,
+    "family": "",
+    "id": "other-open",
+    "is_generic": true,
+    "is_okd_compliant": true,
+    "is_osi_compliant": false,
+    "maintainer": "",
+    "status": "active",
+    "title": "Andet (Åben)",
+    "url": "http://opendefinition.org/okd/dansk/"
+  },
+  {
+    "domain_content": false, 
+    "domain_data": false, 
+    "domain_software": false, 
+    "family": "", 
+    "id": "notspecified", 
+    "is_generic": true, 
+    "is_okd_compliant": false, 
+    "is_osi_compliant": false, 
+    "maintainer": "", 
+    "status": "active", 
+    "title": "Licens ikke angivet", 
+    "url": ""
+  }
+]
