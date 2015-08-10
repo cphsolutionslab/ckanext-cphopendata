@@ -38,6 +38,7 @@ body {
 [role=main], .main {
         background-color: #ffffff !important;
         background-image: none !important;
+        min-height: 150px !important;
 }
 
 .hero {
